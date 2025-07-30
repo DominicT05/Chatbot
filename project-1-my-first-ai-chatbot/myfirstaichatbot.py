@@ -43,4 +43,4 @@ def get_response(message, history):
 if __name__ == "__main__":
     print(get_response("Hello Carmel, What does GPT stand for?", []))
 
-    #step 6 - building using gradio (frontend) 
+    #step 6 - building using gradio (frontend) Refer ui_project_1.py
