@@ -1,3 +1,0 @@
-openai # for communicating with the llm
-python-dotenv # for loading the env variables
-gradio #for the ui (user interface)
