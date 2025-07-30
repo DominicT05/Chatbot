@@ -21,10 +21,12 @@ with gr.Blocks(theme="default", title=brand_info["organizationName"]) as app:
         type="messages",
         examples=[
             ["What is AI?"],
-            ["How long to learn AI?"],
             ["What is Chatbot?"],
-            ["What is a Dictionary?"],
-            ["How long it will take to learn AI?"],
+            ["How long to learn AI?"],
+            ["What is the future of AI?"],
+            ["How can I start learning AI?"],
+            ["Can you explain machine learning?"],
+            ["How does AI impact our daily lives?"],
         ]
     )
 
