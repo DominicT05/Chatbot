@@ -25,6 +25,7 @@ with gr.Blocks(theme="default", title=brand_info["organizationName"]) as app:
             ["How long to learn AI?"],
             ["What is the future of AI?"],
             ["How can I start learning AI?"],
+            ["Tell me about computer vision."],
             ["Can you explain machine learning?"],
             ["How does AI impact our daily lives?"],
         ]
