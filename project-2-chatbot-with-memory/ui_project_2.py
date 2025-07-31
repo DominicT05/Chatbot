@@ -24,10 +24,10 @@ with gr.Blocks(theme="default", title=brand_info["organizationName"]) as app:
             ["What are the best places for taking photos?"],
             ["What cultural customs should I be aware of?"],
             ["Are there any places or areas I should avoid?"],
-            ["Where can I find authentic, locally made products?"]
+            ["Where can I find authentic, locally made products?"],
             ["What local souvenirs are popular and authentic here?"],
-            ["Is there a hidden gem or off-the-beaten-path location most tourists miss?"]
-            ["Can you recommend any outdoor activities like boat tours or nature walks?"]
+            ["Is there a hidden gem or off-the-beaten-path location most tourists miss?"],
+            ["Can you recommend any outdoor activities like boat tours or nature walks?"],
         ]
     )
 
