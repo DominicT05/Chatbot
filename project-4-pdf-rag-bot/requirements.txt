@@ -1,0 +1,4 @@
+openai    #for comms with LLM
+python-dotenv #for loading env variable 
+gradio #for UI 
+PyPDF2 
