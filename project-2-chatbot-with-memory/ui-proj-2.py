@@ -21,7 +21,7 @@ with gr.Blocks(theme="default", title=brand_info["organizationName"]) as app:
         type="messages",
         examples=[
             ["Can you recommend any fun activities?"],
-            ["What are the must-see places in India?"],
+            ["What cultural customs should I be aware of?"],
             ["Are there any places or areas I should avoid?"],
             ["What local souvenirs are popular and authentic here?"],
         ]
